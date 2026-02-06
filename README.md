@@ -21,6 +21,9 @@ The focus of this project is clarity, correctness, and realistic design choices,
 
 ##  Architecture
 ---
+<img width="2286" height="1110" alt="image" src="https://github.com/user-attachments/assets/f7db365e-bc19-4de9-a4ca-c11123179ab3" />
+
+---
 ##  Running the Project
 ````md
 ````
@@ -203,3 +206,33 @@ To address this, I focused on clarity and realism by using neutral colors, limit
 - No Automated Log Generator Integration
 
 - No Multi-Source Log Support (IDS Logs Only)
+
+---
+---
+## Dashboard Behavior (Malicious Events)
+<img width="1074" height="238" alt="image" src="https://github.com/user-attachments/assets/15f074a6-23eb-4dda-ab01-3776a6f82d57" />
+
+At the moment, the dashboard may show 0 Malicious Events.
+This is expected behavior and does not indicate a problem.
+
+This happens when none of the IP addresses in ids.log match the IPs present in the IPSUM threat intelligence dataset.
+
+In this system, an event is marked as malicious only if the source IP or destination IP exists in the IPSUM dataset. If there is no match, the event is treated as benign.
+
+To confirm that the detection and enrichment logic works correctly, I tested the pipeline by manually adding a known malicious IP from the IPSUM dataset into the IDS logs.
+
+## Example Test Log
+```bash
+2026-02-06 12:00:00,000 - ids_logger_1 - high_severity - TCP - 213.209.159.158:4444 --> 10.0.0.10:80 - SYN - Malicious traffic
+
+```
+The IP address 213.209.159.158 exists in the IPSUM dataset with a confidence level of 11.
+
+After rerunning the backend pipeline:
+
+- The event was correctly flagged as malicious
+
+- The Malicious Events count increased
+
+- Malicious IPs, the heatmap, and event details appeared in the dashboard
+
