@@ -21,8 +21,79 @@ The focus of this project is clarity, correctness, and realistic design choices,
 
 ##  Architecture
 ---
-<img width="2286" height="1110" alt="image" src="https://github.com/user-attachments/assets/f7db365e-bc19-4de9-a4ca-c11123179ab3" />
+<img width="2316" height="1091" alt="image" src="https://github.com/user-attachments/assets/c1ba9eb9-091e-465c-bde1-fb4eedce5b30" />
 
+---
+## Architectural Choices 
+
+The main goal of this project was to build something **realistic, simple, and easy to understand**, similar to how a basic SOC pipeline works in practice.  
+The focus was on **clarity and correctness**, rather than adding unnecessary complexity.
+
+---
+
+### Batch Processing Instead of Real-Time Streaming
+
+This project uses **batch processing** instead of real-time streaming.
+
+The reason is simple: the goal is to demonstrate **log ingestion, enrichment, and analysis**, not real-time alerting. In many SOC environments, logs are processed in batches for investigation, reporting, and enrichment with threat intelligence.
+
+With batch processing:
+
+- The pipeline runs when the backend is executed  
+- The dashboard displays the latest processed data  
+- The system remains stable and easy to debug  
+
+This approach also works well with limited resources (4 CPU cores, 8 GB RAM).
+
+---
+
+### Python for Ingestion and Processing
+
+Python is used for log ingestion, parsing, and enrichment.
+
+Python was chosen because it makes it easy to:
+
+- Parse raw log files  
+- Clean and normalize data  
+- Run SQL queries using DuckDB  
+- Keep the code readable and maintainable  
+
+Python is commonly used in both data engineering and security teams, making it a practical and natural choice.
+
+---
+
+### DuckDB as the Central Database
+
+DuckDB is used as the main database for this project.
+
+DuckDB fits this use case well because:
+
+- It is fast for analytical queries  
+- It runs locally without requiring a database server  
+- It supports efficient SQL joins and aggregations  
+
+This allows raw logs, threat intelligence, and enriched data to be stored and queried in one place without adding unnecessary infrastructure.
+
+---
+
+### SQL-Based Enrichment with Threat Intelligence
+
+Malicious detection is implemented using SQL-based enrichment.
+
+A SQL `LEFT JOIN` is performed between:
+
+- Parsed IDS logs  
+- The IPSUM threat intelligence feed  
+
+An event is marked as malicious if the **source or destination IP** matches an IP in the threat intelligence dataset.
+
+This approach is:
+
+- Simple  
+- Transparent  
+- Easy to explain and audit  
+
+It closely reflects how many real SOC systems identify malicious activity using known threat intelligence.
 ---
 ##  Running the Project
 ````md
