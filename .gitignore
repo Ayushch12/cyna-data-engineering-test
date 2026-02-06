@@ -14,3 +14,8 @@ data/*.duckdb
 # OS
 .DS_Store
 Thumbs.db
+
+# But allow sample input logs
+!data/input/access.log
+!data/input/endpoint.log
+!data/input/ids.log
