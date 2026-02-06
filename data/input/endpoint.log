@@ -1,0 +1,587 @@
+Date: 2023-07-23 21:25:18,538 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: joseph
+Computer: TOBAJTPB44
+Date: 2023-07-23 21:25:18,578 
+Event Type: Exception
+File/Process: wininit.exe
+Reason: Administrator Override
+User: daniel
+Computer: XLWZAYAO25
+Date: 2023-07-23 21:25:18,623 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: john
+Computer: BNZBIDYJ82
+Date: 2023-07-23 21:25:18,671 
+Event Type: Scan Completed
+Scan Type: On-Demand Scan
+Malware Found: 0
+User: sandra
+Computer: XDTHJEII34
+Date: 2023-07-23 21:25:18,718 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 0
+User: deborah
+Computer: VSPBIYAK69
+Date: 2023-07-23 21:25:18,764 
+Event Type: Scan Started
+Scan Type: Boot-time Scan
+User: jessica
+Computer: CZMWVIHR11
+Date: 2023-07-23 21:25:18,808 
+Event Type: Scan Started
+Scan Type: Custom Scan
+User: douglas
+Computer: HBBQYXUY96
+Date: 2023-07-23 21:25:18,854 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: mary
+Computer: QZUYKMPF37
+Date: 2023-07-23 21:25:18,901 
+Event Type: Scan Completed
+Scan Type: Custom Scan
+Malware Found: 0
+User: melissa
+Computer: YHVRHUQV52
+Date: 2023-07-23 21:25:19,003 
+Event Type: Malware Detected
+File Name: explorer.exe
+File Path: C:\Users\ashley\soon\family\than\explain\explorer.exe
+File Hash: 1385a923-6847-498e-8dad-28ad3ba03778
+Threat Name: ['Backdoor.Win32.Example']
+Action Taken: Quarantine
+User: amber
+Computer: LWFVFXIN46
+Date: 2023-07-23 21:25:19,040 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: taylor
+Computer: ZLLOMMHG35
+Date: 2023-07-23 21:25:19,153 
+Event Type: Malware Detected
+File Name: msiexec
+File Path: C:\Users\jacob\hair\yard\that\final\msiexec
+File Hash: 47ac3350-23a1-4284-b936-70c8663c8c73
+Threat Name: ['Worm.Win32.Example']
+Action Taken: Clean
+User: joshua
+Computer: HTWHQRNY73
+Date: 2023-07-23 21:25:19,253 
+Event Type: Malware Detected
+File Name: vsapcbsodr.exe
+File Path: C:\Users\christina\view\throw\sister\instead\vsapcbsodr.exe
+File Hash: ec0ae67f-dbbc-4a75-8873-d89f9913cdde
+Threat Name: ['Trojan.JS.Example']
+Action Taken: Quarantine
+User: joshua
+Computer: QAKGFTTL47
+Date: 2023-07-23 21:25:19,303 
+Event Type: Scan Completed
+Scan Type: Custom Scan
+Malware Found: 5
+User: jennifer
+Computer: PSXPYRNA57
+Date: 2023-07-23 21:25:19,324 
+Event Type: Update Applied
+Update Type: Software Update
+Update Version: 5.7.2
+User: System
+Computer: HORIXDJB62
+Date: 2023-07-23 21:25:19,375 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: william
+Computer: PGVMXJMQ37
+Date: 2023-07-23 21:25:19,415 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: kevin
+Computer: MSPDOQOB19
+Date: 2023-07-23 21:25:19,463 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: erin
+Computer: USLSWROH25
+Date: 2023-07-23 21:25:19,511 
+Event Type: Scan Completed
+Scan Type: On-Demand Scan
+Malware Found: 6
+User: melissa
+Computer: HYTUFJVU37
+Date: 2023-07-23 21:25:19,530 
+Event Type: Update Applied
+Update Type: Configuration Update
+Update Version: 1.5.8
+User: System
+Computer: HMYLUSDY98
+Date: 2023-07-23 21:25:19,546 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 7.7.2
+User: System
+Computer: JRTKNYSS53
+Date: 2023-07-23 21:25:19,608 
+Event Type: Scan Started
+Scan Type: Custom Scan
+User: joshua
+Computer: LYLZLILD86
+Date: 2023-07-23 21:25:19,654 
+Event Type: Real-time Protection Enabled
+User: katrina
+Computer: FPULFVXW23
+Date: 2023-07-23 21:25:19,699 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: justin
+Computer: PLJNHNWC74
+Date: 2023-07-23 21:25:19,746 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: hayley
+Computer: XQGFRJWY53
+Date: 2023-07-23 21:25:19,766 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 3.2.6
+User: System
+Computer: IFWKJRQN85
+Date: 2023-07-23 21:25:19,810 
+Event Type: Scan Completed
+Scan Type: Full Scan
+Malware Found: 0
+User: matthew
+Computer: AYYXFDDV27
+Date: 2023-07-23 21:25:19,857 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: eric
+Computer: YYUNCIHU73
+Date: 2023-07-23 21:25:19,906 
+Event Type: Scan Started
+Scan Type: Custom Scan
+User: thomas
+Computer: HBTRPDMY31
+Date: 2023-07-23 21:25:19,951 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: james
+Computer: GLMVGNYE89
+Date: 2023-07-23 21:25:19,998 
+Event Type: Scan Completed
+Scan Type: Boot-time Scan
+Malware Found: 0
+User: jessica
+Computer: WKBHCLIQ31
+Date: 2023-07-23 21:25:20,019 
+Event Type: Update Applied
+Update Type: Configuration Update
+Update Version: 0.3.6
+User: System
+Computer: XKNLOEGP35
+Date: 2023-07-23 21:25:20,062 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 0
+User: richard
+Computer: VAUNZULD92
+Date: 2023-07-23 21:25:20,081 
+Event Type: Update Applied
+Update Type: Software Update
+Update Version: 2.0.3
+User: System
+Computer: OSYWQIBC23
+Date: 2023-07-23 21:25:20,124 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: kathryn
+Computer: BVMWXYMB49
+Date: 2023-07-23 21:25:20,145 
+Event Type: Update Applied
+Update Type: Software Update
+Update Version: 6.1.8
+User: System
+Computer: JJXJPMJP46
+Date: 2023-07-23 21:25:20,161 
+Event Type: Update Applied
+Update Type: Threat Database Update
+Update Version: 6.0.1
+User: System
+Computer: WGKXRIDG91
+Date: 2023-07-23 21:25:20,219 
+Event Type: Scan Completed
+Scan Type: Full Scan
+Malware Found: 0
+User: adrian
+Computer: NQZOJPNI22
+Date: 2023-07-23 21:25:20,239 
+Event Type: Update Applied
+Update Type: Threat Database Update
+Update Version: 7.9.4
+User: System
+Computer: MYBJVLVK25
+Date: 2023-07-23 21:25:20,361 
+Event Type: Malware Detected
+File Name: draw.avi.exe
+File Path: C:\Users\levi\loss\true\baby\maintain\draw.avi.exe
+File Hash: 78f378cf-973c-46d4-ad67-f9ef5db52a56
+Threat Name: ['Backdoor.Win32.Example']
+Action Taken: Clean
+User: matthew
+Computer: WZTGDOGL37
+Date: 2023-07-23 21:25:20,408 
+Event Type: Exception
+File/Process: explorer.exe
+Reason: Trusted Publisher
+User: adam
+Computer: OBRVOSUE23
+Date: 2023-07-23 21:25:20,456 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 0
+User: rebecca
+Computer: JWRSMZMY72
+Date: 2023-07-23 21:25:20,503 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: kenneth
+Computer: FLVYUCOE64
+Date: 2023-07-23 21:25:20,551 
+Event Type: Real-time Protection Enabled
+User: william
+Computer: TJUELFPR97
+Date: 2023-07-23 21:25:20,652 
+Event Type: Malware Detected
+File Name: services.exe
+File Path: C:\Users\amanda\away\defense\people\sit\services.exe
+File Hash: 109fb0f1-5e4f-4ac2-9505-08542f0f40dd
+Threat Name: ['Ransomware.Win32.Example']
+Action Taken: Quarantine
+User: jonathan
+Computer: MAPPQQNI74
+Date: 2023-07-23 21:25:20,693 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: jeffery
+Computer: VEXVSDZH64
+Date: 2023-07-23 21:25:20,740 
+Event Type: Scan Completed
+Scan Type: On-Demand Scan
+Malware Found: 0
+User: victoria
+Computer: YIQRHPLD26
+Date: 2023-07-23 21:25:20,788 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: lisa
+Computer: QOYTYJRS77
+Date: 2023-07-23 21:25:20,836 
+Event Type: Real-time Protection Disabled
+Reason: Scheduled
+User: michael
+Computer: DCGFROWZ48
+Date: 2023-07-23 21:25:20,885 
+Event Type: Real-time Protection Disabled
+Reason: Automatic
+User: samuel
+Computer: MGFKKLDD69
+Date: 2023-07-23 21:25:20,932 
+Event Type: Real-time Protection Disabled
+Reason: Automatic
+User: teresa
+Computer: AIUCXQNS83
+Date: 2023-07-23 21:25:20,979 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: jacob
+Computer: PYSJKJCA88
+Date: 2023-07-23 21:25:21,026 
+Event Type: Scan Completed
+Scan Type: On-Demand Scan
+Malware Found: 0
+User: angela
+Computer: XEROHJVI49
+Date: 2023-07-23 21:25:21,074 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: russell
+Computer: PYFFVGBJ15
+Date: 2023-07-23 21:25:21,122 
+Event Type: Scan Completed
+Scan Type: Real-time Scan
+Malware Found: 0
+User: katelyn
+Computer: HRFHXBWL92
+Date: 2023-07-23 21:25:21,171 
+Event Type: Scan Completed
+Scan Type: Boot-time Scan
+Malware Found: 0
+User: beth
+Computer: SGIOMMRH85
+Date: 2023-07-23 21:25:21,191 
+Event Type: Update Applied
+Update Type: Software Update
+Update Version: 1.8.4
+User: System
+Computer: QBMKPOLX77
+Date: 2023-07-23 21:25:21,234 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 5
+User: scott
+Computer: KMNQYWML71
+Date: 2023-07-23 21:25:21,280 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: peter
+Computer: FVSDIPUT79
+Date: 2023-07-23 21:25:21,328 
+Event Type: Scan Completed
+Scan Type: On-Demand Scan
+Malware Found: 0
+User: nicholas
+Computer: KHCALOJM97
+Date: 2023-07-23 21:25:21,374 
+Event Type: Scan Completed
+Scan Type: Real-time Scan
+Malware Found: 0
+User: gina
+Computer: DDPFDHAG34
+Date: 2023-07-23 21:25:21,393 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 2.4.5
+User: System
+Computer: HCOTBFMU55
+Date: 2023-07-23 21:25:21,495 
+Event Type: Malware Detected
+File Name: wininit.exe
+File Path: C:\Users\mitchell\nothing\professional\large\easy\wininit.exe
+File Hash: d137ae7b-063e-4c17-a15a-150fbe05d354
+Threat Name: ['Rootkit.Win32.Example']
+Action Taken: Deleted
+User: gregory
+Computer: DTDZSVTD27
+Date: 2023-07-23 21:25:21,549 
+Event Type: Scan Completed
+Scan Type: On-Demand Scan
+Malware Found: 0
+User: anthony
+Computer: GBWLUPRR23
+Date: 2023-07-23 21:25:21,592 
+Event Type: Scan Completed
+Scan Type: Full Scan
+Malware Found: 0
+User: joshua
+Computer: OCRUKLQW84
+Date: 2023-07-23 21:25:21,641 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: thomas
+Computer: KORJMCJM56
+Date: 2023-07-23 21:25:21,687 
+Event Type: Scan Completed
+Scan Type: Custom Scan
+Malware Found: 0
+User: donna
+Computer: AZDVNHVF47
+Date: 2023-07-23 21:25:21,734 
+Event Type: Exception
+File/Process: wininit.exe
+Reason: Trusted Publisher
+User: evan
+Computer: FKFOTBML26
+Date: 2023-07-23 21:25:21,752 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 9.6.3
+User: System
+Computer: YNGSFCQG96
+Date: 2023-07-23 21:25:21,796 
+Event Type: Scan Completed
+Scan Type: Real-time Scan
+Malware Found: 0
+User: javier
+Computer: VLSQAMKP19
+Date: 2023-07-23 21:25:21,924 
+Event Type: Malware Detected
+File Name: whether.flac.exe
+File Path: C:\Users\alyssa\cover\six\experience\agree\whether.flac.exe
+File Hash: 40bc6533-d102-4d38-94b9-179db8c937a6
+Threat Name: ['Virus.Win32.Example']
+Action Taken: Quarantine
+User: kelly
+Computer: TMBEHOGQ79
+Date: 2023-07-23 21:25:21,965 
+Event Type: Scan Completed
+Scan Type: Custom Scan
+Malware Found: 0
+User: john
+Computer: JOTGKUHX17
+Date: 2023-07-23 21:25:22,012 
+Event Type: Scan Started
+Scan Type: Quick Scan
+User: david
+Computer: UITQGXMU31
+Date: 2023-07-23 21:25:22,030 
+Event Type: Update Applied
+Update Type: Engine Update
+Update Version: 4.6.7
+User: System
+Computer: SQWZGJBA31
+Date: 2023-07-23 21:25:22,074 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 0
+User: alejandro
+Computer: QQOVPZWW56
+Date: 2023-07-23 21:25:22,178 
+Event Type: Malware Detected
+File Name: keylogger.exe
+File Path: C:\Users\patricia\road\human\practice\how\keylogger.exe
+File Hash: 62f95812-1d77-4848-86dd-a871bd6d0c3d
+Threat Name: ['Spyware.Win32.Example']
+Action Taken: Quarantine
+User: kara
+Computer: DCWFDCKM84
+Date: 2023-07-23 21:25:22,217 
+Event Type: Scan Completed
+Scan Type: Full Scan
+Malware Found: 0
+User: thomas
+Computer: CPAKLONW86
+Date: 2023-07-23 21:25:22,266 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: malik
+Computer: LVREAKEG34
+Date: 2023-07-23 21:25:22,310 
+Event Type: Scan Started
+Scan Type: Custom Scan
+User: kathy
+Computer: ONCDBTRY39
+Date: 2023-07-23 21:25:22,330 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 8.0.5
+User: System
+Computer: GUQVFNCZ65
+Date: 2023-07-23 21:25:22,374 
+Event Type: Scan Completed
+Scan Type: Custom Scan
+Malware Found: 0
+User: meagan
+Computer: CJPFLGLH45
+Date: 2023-07-23 21:25:22,420 
+Event Type: Real-time Protection Enabled
+User: leslie
+Computer: QMGQVYLD78
+Date: 2023-07-23 21:25:22,440 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 7.6.0
+User: System
+Computer: BDDOYWXQ25
+Date: 2023-07-23 21:25:22,484 
+Event Type: Scan Completed
+Scan Type: Full Scan
+Malware Found: 0
+User: amy
+Computer: PTKPCSGF91
+Date: 2023-07-23 21:25:22,504 
+Event Type: Update Applied
+Update Type: Threat Database Update
+Update Version: 3.8.0
+User: System
+Computer: EHWRMKYO63
+Date: 2023-07-23 21:25:22,549 
+Event Type: Real-time Protection Enabled
+User: christine
+Computer: FGJVDBCD76
+Date: 2023-07-23 21:25:22,566 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 0.6.1
+User: System
+Computer: RLWYQTZS67
+Date: 2023-07-23 21:25:22,663 
+Event Type: Malware Detected
+File Name: crsss.exe
+File Path: C:\Users\timothy\final\scene\oil\collection\crsss.exe
+File Hash: 4b3b7c17-49eb-4b7a-868d-81cb5e2fd871
+Threat Name: ['Exploit.Win32.Example']
+Action Taken: Report
+User: cristian
+Computer: RZOSTAWE37
+Date: 2023-07-23 21:25:22,675 
+Event Type: Update Applied
+Update Type: Engine Update
+Update Version: 9.1.9
+User: System
+Computer: BRBPOXXQ19
+Date: 2023-07-23 21:25:22,691 
+Event Type: Update Applied
+Update Type: Engine Update
+Update Version: 4.4.4
+User: System
+Computer: QLPAOYVV63
+Date: 2023-07-23 21:25:22,742 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 0
+User: aaron
+Computer: EPZCETNZ62
+Date: 2023-07-23 21:25:22,767 
+Event Type: Update Applied
+Update Type: Definition Update
+Update Version: 9.1.0
+User: System
+Computer: SAGFOFLI67
+Date: 2023-07-23 21:25:22,819 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: jennifer
+Computer: UYXQEJSY72
+Date: 2023-07-23 21:25:22,857 
+Event Type: Scan Completed
+Scan Type: Quick Scan
+Malware Found: 0
+User: anthony
+Computer: MFIUAXEI87
+Date: 2023-07-23 21:25:22,905 
+Event Type: Scan Completed
+Scan Type: Full Scan
+Malware Found: 0
+User: kevin
+Computer: HEQWZKVW78
+Date: 2023-07-23 21:25:22,953 
+Event Type: Real-time Protection Enabled
+User: jessica
+Computer: EQQGRNDU11
+Date: 2023-07-23 21:25:23,001 
+Event Type: Real-time Protection Enabled
+User: christopher
+Computer: IILCKYCQ27
+Date: 2023-07-23 21:25:23,050 
+Event Type: Scan Completed
+Scan Type: Custom Scan
+Malware Found: 0
+User: lisa
+Computer: EYMZJYHK22
+Date: 2023-07-23 21:25:23,097 
+Event Type: Scan Started
+Scan Type: Full Scan
+User: jose
+Computer: LNGOPTGU22
+Date: 2023-07-23 21:25:23,200 
+Event Type: Malware Detected
+File Name: lsass.exe
+File Path: C:\Users\kathleen\charge\condition\ago\second\lsass.exe
+File Hash: 637cb7ea-e963-44f9-8359-b2409b7b7290
+Threat Name: ['Trojan.JS.Example']
+Action Taken: Quarantine
+User: jennifer
+Computer: WKHIZUSS65
